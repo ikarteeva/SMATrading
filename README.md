@@ -1,0 +1,2 @@
+# SMATrading
+Trading with SMA
